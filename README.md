@@ -1,6 +1,9 @@
 La fábula de los tres hermanos - Los cuentos de Beedle el Bardo, J.K Rowling. 
+
 Pantalla 1: 
+	
 	Descripción: Los hermanos llegan a un río profundo y peligroso. Recurren a la magia para poder cruzar.
+	
 	Acción: El usuario debe elegir qué encantamiento realizar. 
 		- Opción 1: Glacius. Te lleva a la Pantalla 2. 
 		- Opción 2: Crear un puente. Te lleva a la Pantalla 4.
