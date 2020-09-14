@@ -17,7 +17,6 @@ void draw(){
 }
 
 void mouseClicked(){
-  generarAleatorios();
   if(clickBotonOK()){
     matchOK();
   }else if(clickBotonKO()){
